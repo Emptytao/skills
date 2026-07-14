@@ -1,0 +1,15 @@
+[submodule "skills/seedance2.0-prompt-skill"]
+	path = skills/seedance2.0-prompt-skill
+	url = https://github.com/Emptytao/seedance2.0-prompt-skill.git
+[submodule "skills/seedance-20"]
+	path = skills/seedance-20
+	url = https://github.com/Emptytao/seedance-2.0.git
+[submodule "skills/short-drama"]
+	path = skills/short-drama
+	url = https://github.com/Emptytao/short-drama.git
+[submodule "skills/all-asset-master-v3"]
+	path = skills/all-asset-master-v3
+	url = https://github.com/Emptytao/all-asset-master-v3.git
+[submodule "skills/vibe-image"]
+	path = skills/vibe-image
+	url = https://github.com/Emptytao/vibe-image.git
