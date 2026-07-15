@@ -13,3 +13,6 @@
 [submodule "skills/vibe-image"]
 	path = skills/vibe-image
 	url = https://github.com/Emptytao/vibe-image.git
+[submodule "skills/cinematic-director"]
+	path = skills/cinematic-director
+	url = https://github.com/Emptytao/xiaoyou-aigc-cinematic-director.git
